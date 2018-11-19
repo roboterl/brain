@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>brain</name>
+  <version>0.1.0</version>
+  <description>The brain package</description>
+  <maintainer email="liang.cao@live.com">liang</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>geometry_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>nxt_control</depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>tf</depend>
+</package>
